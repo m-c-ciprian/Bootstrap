@@ -3,3 +3,12 @@
     height: 100px;
     border: 1px solid yellow;
 }
+
+a {
+    color: brown;
+    text-align: center;
+    text-size-adjust: 18 px;
+    text-decoration: solid;
+
+}
+
